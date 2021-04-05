@@ -1,0 +1,52 @@
+{
+  "frames": [
+    {
+      "name": "broken-ship-010.png",
+      "position": { "x": 0, "y": 0, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-011.png",
+      "position": { "x": 2000, "y": 0, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-012.png",
+      "position": { "x": 4000, "y": 0, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-013.png",
+      "position": { "x": 0, "y": 2000, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-014.png",
+      "position": { "x": 2000, "y": 2000, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-015.png",
+      "position": { "x": 4000, "y": 2000, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-016.png",
+      "position": { "x": 0, "y": 4000, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-017.png",
+      "position": { "x": 2000, "y": 4000, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-018.png",
+      "position": { "x": 4000, "y": 4000, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-019.png",
+      "position": { "x": 0, "y": 6000, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-0110.png",
+      "position": { "x": 2000, "y": 6000, "w": 2000, "h": 2000 }
+    },
+    {
+      "name": "broken-ship-0111.png",
+      "position": { "x": 4000, "y": 6000, "w": 2000, "h": 2000 }
+    }
+  ]
+}
