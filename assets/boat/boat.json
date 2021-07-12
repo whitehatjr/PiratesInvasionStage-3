@@ -1,20 +1,32 @@
 {
   "frames": [
     {
-      "position": { "x": 0, "y": 0, "w": 2000, "h": 2000 },
-      "name": "ship-sailing0.png"
+      "position": { "x": 0, "y": 0, "w": 500, "h": 500 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+      "sourceSize": { "w": 500, "h": 500 }
     },
     {
-      "position": { "x": 2000, "y": 0, "w": 2000, "h": 2000 },
-      "name": "ship-sailing1.png"
+      "position": { "x": 500, "y": 0, "w": 500, "h": 500 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+      "sourceSize": { "w": 500, "h": 500 }
     },
     {
-      "position": { "x": 0, "y": 2000, "w": 2000, "h": 2000 },
-      "name": "ship-sailing2.png"
+      "position": { "x": 0, "y": 500, "w": 500, "h": 500 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+      "sourceSize": { "w": 500, "h": 500 }
     },
     {
-      "position": { "x": 2000, "y": 2000, "w": 2000, "h": 2000 },
-      "name": "ship-sailing3.png"
+      "position": { "x": 500, "y": 500, "w": 500, "h": 500 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 500, "h": 500 },
+      "sourceSize": { "w": 500, "h": 500 }
     }
   ]
 }

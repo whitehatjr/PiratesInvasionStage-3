@@ -21,7 +21,7 @@ class Cannon {
     rotate(this.angle);
     rect(-10, -20, this.width, this.height);
     pop();
-    arc(this.x - 40, this.y + 80, 180, 230, PI, TWO_PI);
+    arc(this.x - 30, this.y + 90, 140, 200, PI, TWO_PI);
     noFill();
   }
 }
